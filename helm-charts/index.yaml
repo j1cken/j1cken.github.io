@@ -9,5 +9,5 @@ entries:
     - nodejs
     name: nodejs
     urls:
-    - https://redhat-developer.github.io/redhat-helm-charts/charts/nodejs-0.0.2.tgz
+    - https://j1cken.github.io/helm-charts/nodejs-0.0.2.tgz
     version: 0.0.2
