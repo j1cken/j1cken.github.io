@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nodejs:
+  - apiVersion: v2
+    description: A Helm chart to build and deploy Node.js applications
+    digest: 351e0e3dba2a04cf4a85203e0c161d0b28f0050392050a4dc49bdc72f131f69b
+    keywords:
+    - runtimes
+    - nodejs
+    name: nodejs
+    urls:
+    - https://redhat-developer.github.io/redhat-helm-charts/charts/nodejs-0.0.2.tgz
+    version: 0.0.2
